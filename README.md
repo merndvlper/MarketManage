@@ -27,9 +27,11 @@ This project is a simple command-line-based market management system built in Ru
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
+```
 
 ```bash
 cargo run 
+```
 
 ```pgsql
 --- Market ---
@@ -41,4 +43,5 @@ cargo run
 6. Add New Product
 7. Delete Client
 8. Delete Product
+```
 
