@@ -1,12 +1,8 @@
 # Market Management
-# 🏪 Rust Market Management System
+🏪 Rust Market Management System
+This is a terminal-based market management system written in Rust. It allows managing a basic inventory and client database, where users can add or delete products and clients, simulate product purchases, and persist data using JSON files. It is a beginner-friendly project for understanding data structures, file I/O, and basic business logic in Rust.
 
-Bu projede müşterileri ve ürünleri depolayabilirisiniz.
-Müşterilirin, isimlerini, soyisimlerini, bakiyelerini ve ID numaralarını belirleyebilirsiniz.
-Ürünlerin, isimlerini, ücretlerini, stoklarını ve ID numaralarını belirleyebilirsiniz.
-Yeni müşteri ve ürünleri ekleyebilir, hali hazırda olanları ise silebilirsiniz.
-Ekli olan müşterilerin bakiyeleri ile alışveriş yapabilirsiniz.
-This project is a simple command-line-based market management system built in Rust. It allows users to manage clients and products, handle purchases, and persist data using JSON files.
+
 
 ## 📦 Features
 
